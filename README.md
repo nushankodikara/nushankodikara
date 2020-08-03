@@ -11,7 +11,7 @@ I'm so glad you found me here! Let me introduce my self, I'm a tech blogger and 
 
 Does it end there? No it doesn't! I do work on mini-projects as a hobbyist
 
-# 🔧 What I'm Currently working on
+# 🔧 What I'm Currently working with
 
 In case you didn't know, These are the tools and services I use on my projects Don't forget to browse my site [Here](https://www.tecinpact.tk/)
 
@@ -53,3 +53,4 @@ In case you didn't know, These are the tools and services I use on my projects D
 ![badge](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![badge](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![badge](https://img.shields.io/badge/OS-Zorin-informational?style=flat&logo=zorin&logoColor=white&color=2bbc8a)
+
