@@ -1,4 +1,4 @@
-![Header Image](https://www.github.com/nushankodikara/nushankodikara/header.png)
+![Header Image](https://github.com/nushankodikara/nushankodikara/raw/master/header.png)
 # Well, Hello There! Glad to see you here! :relaxed:
 
 
