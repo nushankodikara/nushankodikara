@@ -9,7 +9,7 @@ I'm so glad you found me here! Let me introduce my self, I'm a tech blogger and 
 * Videography and Video editing 🎥
 * Photography and Photo manipulation 📸
 
-Does it end there? No it doesn't! I do work on miniprohjects as a hobbyist
+Does it end there? No it doesn't! I do work on mini-projects as a hobbyist
 
 # 🔧 What I'm Currently working on
 
