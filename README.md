@@ -1,10 +1,8 @@
-<center>
-
-![Header Image](./header.png)
+![Header Image](https://www.github.com/nushankodikara/nushankodikara/header.png)
 # Well, Hello There! Glad to see you here! :relaxed:
 
 
-</center>
+
 <!--
 **nushankodikara/nushankodikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
