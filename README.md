@@ -15,7 +15,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/nushankodikara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/nushan-kodikara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/____nushan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/Kodikara.nushan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.tiktok.com/@nushan.kodikara" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@nushankodikara" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:nushankodi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kodikara_nushan" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate DevOps Engineer developing quick and easy tools focused for developers. Skilled in web dev and server management, trying to break in to the ML world.</h3>**
+**<h3 align="left">🚀 Passionate DevOps Engineer developing quick and easy tools focused for developers. Skilled in web dev and server management, trying to break in to the ML world.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -23,7 +23,8 @@
 - 🌱 I'm currently learning: **📚 ML and Deep Learning**
 - 💬 Ask me about: **💡SvelteKit, Docker / Kubernetes, Bun or anything Web Dev Related**
 - ⚡ Fun fact: **💪 ML tools in self driving cars and bodybuilding –– Coming Soon**
-- 📝 Blog: **<a href="https://dly.to/NvRkXw3w4oQ" target="_blank">https://dly.to/NvRkXw3w4oQ</a>**
+- 📝 Blog: **<a href="https://codecircuit.vercel.app" target="_blank">https://codecircuit.vercel.app</a>**
+- 🗻 Portfolio: **<a href="https://nushan-kodikara.netlify.app" target="_blank">https://nushan-kodikara.netlify.app</a>**
 
 
  **<h3 align="left">Skills</h3>**
